@@ -1,0 +1,23 @@
+animation{
+  name = "clear",
+  src_image = "menus/title_screen/press_start.png",
+  directions = {
+    { x = 0, y = 16, frame_width = 96, frame_height = 16, origin_x = 48, origin_y = 13 },
+  },
+}
+animation{
+  name = "blinking",
+  src_image = "menus/title_screen/press_start.png",
+  frame_delay = 350,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 0, frame_width = 96, frame_height = 16, origin_x = 48, origin_y = 13, num_frames = 2, num_columns = 1 },
+  },
+}
+animation{
+  name = "fixed",
+  src_image = "menus/title_screen/press_start.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 96, frame_height = 16, origin_x = 48, origin_y = 13 },
+  },
+}

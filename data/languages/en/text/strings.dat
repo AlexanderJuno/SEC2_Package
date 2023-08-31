@@ -1,0 +1,57 @@
+text{ key = "dungeon.1", value = "Dungeon of Slimy Slime" }
+text{ key = "dungeon.2", value = "Dungeon of Sugar Rush" }
+text{ key = "menu.command_binding.captions.press_action_customize_key", value = "Press ACTION to customize" }
+text{ key = "menu.command_binding.captions.press_key", value = "Press a key" }
+text{ key = "menu.command_binding.command_column", value = "Commands" }
+text{ key = "menu.command_binding.commands.action", value = "action" }
+text{ key = "menu.command_binding.commands.attack", value = "attack" }
+text{ key = "menu.command_binding.commands.down", value = "down" }
+text{ key = "menu.command_binding.commands.item_1", value = "item X" }
+text{ key = "menu.command_binding.commands.item_2", value = "item Y" }
+text{ key = "menu.command_binding.commands.left", value = "left" }
+text{ key = "menu.command_binding.commands.pause", value = "pause" }
+text{ key = "menu.command_binding.commands.right", value = "right" }
+text{ key = "menu.command_binding.commands.up", value = "up" }
+text{ key = "menu.command_binding.joypad_column", value = "Joypad" }
+text{ key = "menu.command_binding.keyboard_column", value = "Keyboard" }
+text{ key = "menu.command_binding.title", value = "Commands " }
+text{ key = "menu.inventory.item.bombs", value = "Bombs" }
+text{ key = "menu.inventory.item.boomerang", value = "Boomerang" }
+text{ key = "menu.inventory.item.bottle_1", value = "Bottle" }
+text{ key = "menu.inventory.item.bottle_2", value = "Bottle" }
+text{ key = "menu.inventory.item.bottle_3", value = "Bottle" }
+text{ key = "menu.inventory.item.bottle_4", value = "Bottle" }
+text{ key = "menu.inventory.item.bow", value = "Bow and Arrows" }
+text{ key = "menu.inventory.item.equipment/bomb_bag", value = "Bomb's bag" }
+text{ key = "menu.inventory.item.equipment/coins_bag", value = "Purse" }
+text{ key = "menu.inventory.item.equipment/flippers", value = "Flippers" }
+text{ key = "menu.inventory.item.equipment/glove", value = "Glove of force" }
+text{ key = "menu.inventory.item.equipment/quiver", value = "Quiver" }
+text{ key = "menu.inventory.item.equipment/ring", value = "Ring of Power" }
+text{ key = "menu.inventory.item.equipment/sword", value = "Sword" }
+text{ key = "menu.inventory.item.equipment/tunic", value = "Tunic" }
+text{ key = "menu.inventory.item.feather", value = "Feather" }
+text{ key = "menu.inventory.item.hammer", value = "Hammer" }
+text{ key = "menu.inventory.item.hookshot", value = "Hookshot" }
+text{ key = "menu.inventory.item.life_potion", value = "Life Potion" }
+text{ key = "menu.inventory.item.shield", value = "Sheild" }
+text{ key = "menu.inventory.title", value = "Inventory" }
+text{ key = "menu.made_for_school.line1", value = "Ce jeu est réalisé à des fins éducatives" }
+text{ key = "menu.made_for_school.line2", value = "et à des fins non commerciales" }
+text{ key = "menu.maker.line1", value = "Alexandre" }
+text{ key = "menu.maker.line2", value = "Juneau" }
+text{ key = "menu.press_O", value = "change" }
+text{ key = "menu.settings.back", value = "back" }
+text{ key = "menu.settings.language", value = "language" }
+text{ key = "menu.settings.music_volume", value = "music" }
+text{ key = "menu.settings.sound_volume", value = "sound" }
+text{ key = "menu.settings.title", value = "Settings" }
+text{ key = "menu.solarus_license.line1", value = "Solarus est un logiciel libre" }
+text{ key = "menu.solarus_license.line2", value = "sous licence GPL v3" }
+text{ key = "options_menu.back", value = "BACK" }
+text{ key = "options_menu.language", value = "LANGUAGE" }
+text{ key = "options_menu.music_volume", value = "MUSIC" }
+text{ key = "options_menu.sound_volume", value = "SOUND" }
+text{ key = "options_menu.title", value = "OPTIONS" }
+text{ key = "title_screen.game_name", value = "Teck Pack" }
+text{ key = "title_screen.start_game", value = "PRESS START" }

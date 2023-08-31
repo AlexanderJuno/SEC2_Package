@@ -1,0 +1,9 @@
+animation{
+  name = "in_process",
+  src_image = "menus/commands/in_process.png",
+  frame_delay = 120,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 0, frame_width = 64, frame_height = 16, origin_x = 32, origin_y = 13, num_frames = 8, num_columns = 1 },
+  },
+}

@@ -1,0 +1,830 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  min_layer = 0,
+  max_layer = 2,
+  world = "mystic_forest",
+  tileset = "demo_tilesets/overworld",
+  music = "same",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  pattern = "45",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 0,
+  width = 304,
+  height = 32,
+  pattern = "37",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 160,
+  width = 80,
+  height = 16,
+  pattern = "15",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 80,
+  width = 32,
+  height = 16,
+  pattern = "18",
+}
+
+tile{
+  layer = 0,
+  x = 304,
+  y = 128,
+  width = 8,
+  height = 8,
+  pattern = "11",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 288,
+  y = 32,
+  width = 32,
+  height = 48,
+  pattern = "37",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 176,
+  width = 80,
+  height = 64,
+  pattern = "37",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 176,
+  width = 16,
+  height = 64,
+  pattern = "16",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 224,
+  width = 16,
+  height = 16,
+  pattern = "17",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 224,
+  width = 112,
+  height = 16,
+  pattern = "37",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 168,
+  width = 16,
+  height = 8,
+  pattern = "7",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 80,
+  width = 16,
+  height = 8,
+  pattern = "9",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 88,
+  width = 16,
+  height = 8,
+  pattern = "11",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 216,
+  width = 16,
+  height = 8,
+  pattern = "8",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 32,
+  width = 16,
+  height = 16,
+  pattern = "35",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 48,
+  width = 16,
+  height = 32,
+  pattern = "16",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 32,
+  width = 240,
+  height = 16,
+  pattern = "18",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 32,
+  width = 16,
+  height = 16,
+  pattern = "36",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 48,
+  width = 16,
+  height = 160,
+  pattern = "17",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 208,
+  width = 16,
+  height = 16,
+  pattern = "34",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 208,
+  width = 80,
+  height = 16,
+  pattern = "15",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 0,
+  width = 16,
+  height = 224,
+  pattern = "37",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 216,
+  width = 8,
+  height = 8,
+  pattern = "11",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 168,
+  width = 8,
+  height = 8,
+  pattern = "11",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 160,
+  width = 8,
+  height = 8,
+  pattern = "11",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 120,
+  width = 8,
+  height = 8,
+  pattern = "11",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 168,
+  width = 8,
+  height = 8,
+  pattern = "11",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 72,
+  width = 8,
+  height = 8,
+  pattern = "11",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 72,
+  width = 8,
+  height = 8,
+  pattern = "11",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 128,
+  width = 8,
+  height = 8,
+  pattern = "11",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 112,
+  width = 8,
+  height = 8,
+  pattern = "10",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 136,
+  width = 8,
+  height = 8,
+  pattern = "10",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 192,
+  width = 8,
+  height = 8,
+  pattern = "10",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 224,
+  width = 8,
+  height = 8,
+  pattern = "10",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 224,
+  width = 8,
+  height = 8,
+  pattern = "9",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 184,
+  width = 8,
+  height = 8,
+  pattern = "9",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 56,
+  y = 152,
+  width = 8,
+  height = 8,
+  pattern = "9",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 112,
+  width = 8,
+  height = 8,
+  pattern = "9",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 72,
+  width = 16,
+  height = 16,
+  pattern = "68",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 88,
+  width = 16,
+  height = 16,
+  pattern = "68",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 88,
+  width = 16,
+  height = 16,
+  pattern = "69",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 96,
+  width = 16,
+  height = 16,
+  pattern = "69",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 80,
+  width = 16,
+  height = 16,
+  pattern = "109",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 56,
+  width = 16,
+  height = 16,
+  pattern = "110",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 336,
+  width = 16,
+  height = 16,
+  pattern = "110",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "1",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "1",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "1",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 64,
+  width = 16,
+  height = 16,
+  pattern = "1",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 80,
+  width = 16,
+  height = 16,
+  pattern = "1",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 96,
+  width = 16,
+  height = 16,
+  pattern = "1",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "1",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "1",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 64,
+  width = 16,
+  height = 16,
+  pattern = "1",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "1",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "1",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 176,
+  width = 16,
+  height = 16,
+  pattern = "1",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "1",
+  tileset = "demo_tilesets/main",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "1",
+  tileset = "demo_tilesets/main",
+}
+
+teletransporter{
+  layer = 0,
+  x = 320,
+  y = 80,
+  width = 16,
+  height = 88,
+  transition = "scrolling",
+  destination_map = "mystic_forest/mystic_forest",
+  destination = "_side",
+}
+
+teletransporter{
+  layer = 0,
+  x = 128,
+  y = 240,
+  width = 96,
+  height = 16,
+  transition = "scrolling",
+  destination_map = "mystic_forest/mystic_south_west_forest",
+  destination = "_side",
+}
+
+crystal{
+  layer = 0,
+  x = 216,
+  y = 149,
+}
+
+crystal_block{
+  layer = 0,
+  x = 264,
+  y = 96,
+  width = 16,
+  height = 64,
+  subtype = 1,
+}
+
+destructible{
+  layer = 0,
+  x = 288,
+  y = 109,
+  sprite = "destructibles/white_vase",
+  destruction_sound = "stone",
+  can_regenerate = true,
+}
+
+destructible{
+  layer = 0,
+  x = 216,
+  y = 213,
+  sprite = "destructibles/white_vase",
+  destruction_sound = "stone",
+  can_regenerate = true,
+}
+
+destructible{
+  layer = 0,
+  x = 264,
+  y = 61,
+  treasure_name = "consumables/heart",
+  sprite = "destructibles/bush",
+  destruction_sound = "bush",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 264,
+  y = 77,
+  treasure_name = "consumables/heart",
+  sprite = "destructibles/bush",
+  destruction_sound = "bush",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 248,
+  y = 61,
+  treasure_name = "consumables/heart",
+  sprite = "destructibles/bush",
+  destruction_sound = "bush",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 40,
+  y = 61,
+  treasure_name = "consumables/heart",
+  sprite = "destructibles/bush",
+  destruction_sound = "bush",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 56,
+  y = 61,
+  sprite = "destructibles/bush",
+  destruction_sound = "bush",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 72,
+  y = 61,
+  sprite = "destructibles/bush",
+  destruction_sound = "bush",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 152,
+  y = 61,
+  sprite = "destructibles/bush",
+  destruction_sound = "bush",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 168,
+  y = 61,
+  sprite = "destructibles/bush",
+  destruction_sound = "bush",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 40,
+  y = 77,
+  sprite = "destructibles/bush",
+  destruction_sound = "bush",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 40,
+  y = 93,
+  sprite = "destructibles/bush",
+  destruction_sound = "bush",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 40,
+  y = 109,
+  sprite = "destructibles/bush",
+  destruction_sound = "bush",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 40,
+  y = 189,
+  sprite = "destructibles/bush",
+  destruction_sound = "bush",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 40,
+  y = 205,
+  sprite = "destructibles/bush",
+  destruction_sound = "bush",
+  can_be_cut = true,
+}
+
+destructible{
+  layer = 0,
+  x = 56,
+  y = 205,
+  sprite = "destructibles/bush",
+  destruction_sound = "bush",
+  can_be_cut = true,
+}
+
+enemy{
+  layer = 0,
+  x = 80,
+  y = 101,
+  direction = 0,
+  breed = "yellow_slime",
+}
+
+enemy{
+  layer = 0,
+  x = 128,
+  y = 165,
+  direction = 0,
+  breed = "yellow_slime",
+}
+
+enemy{
+  layer = 0,
+  x = 200,
+  y = 85,
+  direction = 0,
+  breed = "yellow_slime",
+}
+
+crystal_block{
+  layer = 0,
+  x = 144,
+  y = 184,
+  width = 80,
+  height = 16,
+  subtype = 0,
+}
+
+crystal_block{
+  layer = 0,
+  x = 128,
+  y = 200,
+  width = 16,
+  height = 16,
+  subtype = 0,
+}
+
+tile{
+  layer = 1,
+  x = 224,
+  y = 160,
+  width = 16,
+  height = 8,
+  pattern = "13",
+}
+
+tile{
+  layer = 1,
+  x = 112,
+  y = 208,
+  width = 16,
+  height = 8,
+  pattern = "14",
+}
+
+tile{
+  layer = 1,
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  pattern = "85",
+  tileset = "demo_tilesets/main",
+}
+

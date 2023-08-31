@@ -1,0 +1,31 @@
+animation{
+  name = "opened",
+  src_image = "menus/inventory/Item_parchment.png",
+  directions = {
+    { x = 0, y = 288, frame_width = 160, frame_height = 32, origin_x = 80, origin_y = 10 },
+  },
+}
+animation{
+  name = "clear",
+  src_image = "menus/inventory/item_parchment.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 10 },
+  },
+}
+animation{
+  name = "closing",
+  src_image = "menus/inventory/item_parchment.png",
+  frame_delay = 50,
+  directions = {
+    { x = 0, y = 288, frame_width = 160, frame_height = 32, origin_x = 80, origin_y = 10, num_frames = 10, num_columns = 1 },
+  },
+}
+animation{
+  name = "opening",
+  src_image = "menus/inventory/item_parchment.png",
+  frame_delay = 50,
+  frame_to_loop_on = 9,
+  directions = {
+    { x = 0, y = 0, frame_width = 160, frame_height = 32, origin_x = 80, origin_y = 10, num_frames = 10, num_columns = 1 },
+  },
+}

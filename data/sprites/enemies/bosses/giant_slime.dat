@@ -1,0 +1,64 @@
+animation{
+  name = "walking",
+  src_image = "enemies/bosses/giant_slime.png",
+  frame_delay = 150,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 0, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 29, num_frames = 4 },
+    { x = 0, y = 0, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 29, num_frames = 4 },
+    { x = 0, y = 0, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 29, num_frames = 4 },
+    { x = 0, y = 0, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 29, num_frames = 4 },
+  },
+}
+animation{
+  name = "angry",
+  src_image = "enemies/bosses/giant_slime.png",
+  frame_delay = 150,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 128, y = 0, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 29, num_frames = 4 },
+    { x = 128, y = 0, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 29, num_frames = 4 },
+    { x = 128, y = 0, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 29, num_frames = 4 },
+    { x = 128, y = 0, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 29, num_frames = 4 },
+  },
+}
+animation{
+  name = "dead",
+  src_image = "enemies/bosses/giant_slime.png",
+  frame_delay = 250,
+  frame_to_loop_on = 2,
+  directions = {
+    { x = 160, y = 32, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 29, num_frames = 5 },
+  },
+}
+animation{
+  name = "dying",
+  src_image = "enemies/bosses/giant_slime.png",
+  frame_delay = 100,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 32, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 29, num_frames = 4 },
+  },
+}
+animation{
+  name = "hurt",
+  src_image = "enemies/bosses/giant_slime.png",
+  directions = {
+    { x = 384, y = 0, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 29 },
+    { x = 384, y = 0, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 29 },
+    { x = 384, y = 0, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 29 },
+    { x = 384, y = 0, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 29 },
+  },
+}
+animation{
+  name = "super_angry",
+  src_image = "enemies/bosses/giant_slime.png",
+  frame_delay = 150,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 256, y = 0, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 29, num_frames = 4 },
+    { x = 256, y = 0, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 29, num_frames = 4 },
+    { x = 256, y = 0, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 29, num_frames = 4 },
+    { x = 256, y = 0, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 29, num_frames = 4 },
+  },
+}

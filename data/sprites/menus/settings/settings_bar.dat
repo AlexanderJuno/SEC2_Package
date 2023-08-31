@@ -1,0 +1,9 @@
+animation{
+  name = "settings_bar",
+  src_image = "menus/settings/settings_bar.png",
+  frame_delay = 130,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 0, frame_width = 160, frame_height = 11, origin_x = 0, origin_y = 5, num_frames = 11, num_columns = 1 },
+  },
+}

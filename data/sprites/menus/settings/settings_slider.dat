@@ -1,0 +1,7 @@
+animation{
+  name = "default",
+  src_image = "menus/settings/settings_slider.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 8, frame_height = 16, origin_x = 0, origin_y = 8 },
+  },
+}

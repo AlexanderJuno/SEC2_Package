@@ -1,0 +1,778 @@
+dialog{
+  id = "_crystal",
+  text = [[
+This shinny crystal seem to activate 
+something.
+]],
+}
+
+dialog{
+  id = "_shop",
+  text = [[
+]],
+}
+
+dialog{
+  id = "_shop.amount_full",
+  text = [[
+You can't buy more, your inventory is full.
+]],
+}
+
+dialog{
+  id = "_shop.not_enough_money",
+  text = [[
+Huh! You don't have enough coins.
+]],
+}
+
+dialog{
+  id = "_shop.question",
+  text = [[
+Price : $v coins.
+     $? Buy.
+     $? Don't buy.
+]],
+}
+
+dialog{
+  id = "_treasure.arrow.1",
+  text = [[
+You got an arrow, don't miss your shot!
+]],
+}
+
+dialog{
+  id = "_treasure.arrow.2",
+  text = [[
+You got 5 arrows. Quite good.
+]],
+}
+
+dialog{
+  id = "_treasure.arrow.3",
+  text = [[
+You got 10 arrows. Pretty fine!
+]],
+}
+
+dialog{
+  id = "_treasure.bombs.1",
+  text = [[
+You got bombs! Don't blow yourself
+when using it!
+]],
+}
+
+dialog{
+  id = "_treasure.boomerang.1",
+  text = [[
+You got the boomerang! You can catch little
+things on distance, knock mecanism or stun
+small ennemies.
+]],
+}
+
+dialog{
+  id = "_treasure.bottle_1.1",
+  text = [[
+You found a bottle! It will be very
+useful to keep some kind of potion.
+]],
+}
+
+dialog{
+  id = "_treasure.bottle_1.2",
+  text = [[
+It contains heart potion, you'll gain
+all your life by drinking it.
+]],
+}
+
+dialog{
+  id = "_treasure.bottle_1.3",
+  text = [[
+It contains mana potion, without magic 
+power, this potion is useless. But if you
+have some, you'll gain all your mana.
+]],
+}
+
+dialog{
+  id = "_treasure.bottle_1.4",
+  text = [[
+It contains the multi-potion, you'll
+gain all your hearts and all your mana.
+]],
+}
+
+dialog{
+  id = "_treasure.bottle_2.1",
+  text = [[
+You found a bottle! It will be very
+useful to keep some kind of potion.
+]],
+}
+
+dialog{
+  id = "_treasure.bottle_2.2",
+  text = [[
+It contains heart potion, you'll gain
+all your life by drinking it.
+]],
+}
+
+dialog{
+  id = "_treasure.bottle_2.3",
+  text = [[
+It contains mana potion, without magic 
+power, this potion is useless. But if you
+have some, you'll gain all your mana.
+]],
+}
+
+dialog{
+  id = "_treasure.bottle_2.4",
+  text = [[
+It contains the multi-potion, you'll
+gain all your hearts and all your mana.
+]],
+}
+
+dialog{
+  id = "_treasure.bottle_3.1",
+  text = [[
+You found a bottle! It will be very
+useful to keep some kind of potion.
+]],
+}
+
+dialog{
+  id = "_treasure.bottle_3.2",
+  text = [[
+It contains heart potion, you'll gain
+all your life by drinking it.
+]],
+}
+
+dialog{
+  id = "_treasure.bottle_3.3",
+  text = [[
+It contains mana potion, without magic 
+power, this potion is useless. But if you
+have some, you'll gain all your mana.
+]],
+}
+
+dialog{
+  id = "_treasure.bottle_3.4",
+  text = [[
+It contains the multi-potion, you'll
+gain all your hearts and all your mana.
+]],
+}
+
+dialog{
+  id = "_treasure.bottle_4.1",
+  text = [[
+You found a bottle! It will be very
+useful to keep some kind of potion.
+]],
+}
+
+dialog{
+  id = "_treasure.bottle_4.2",
+  text = [[
+It contains heart potion, you'll gain
+all your life by drinking it.
+]],
+}
+
+dialog{
+  id = "_treasure.bottle_4.3",
+  text = [[
+It contains mana potion, without magic 
+power, this potion is useless. But if you
+have some, you'll gain all your mana.
+]],
+}
+
+dialog{
+  id = "_treasure.bottle_4.4",
+  text = [[
+It contains the multi-potion, you'll
+gain all your hearts and all your mana.
+]],
+}
+
+dialog{
+  id = "_treasure.bow.1",
+  text = [[
+You got a bow, it will be very useful
+for range attack but you'll need some
+arrows.
+]],
+}
+
+dialog{
+  id = "_treasure.bow.2",
+  text = [[
+You got a bow with some arrows, 
+it will be very useful for range attack!
+]],
+}
+
+dialog{
+  id = "_treasure.equipment/bomb_bag.1",
+  text = [[
+This bag can contain 10 bombs.
+]],
+}
+
+dialog{
+  id = "_treasure.equipment/bomb_bag.2",
+  text = [[
+This bag can contain 30 bombs.
+]],
+}
+
+dialog{
+  id = "_treasure.equipment/bomb_bag.3",
+  text = [[
+This bag can contain 50 bombs.
+]],
+}
+
+dialog{
+  id = "_treasure.equipment/coins_bag.1",
+  text = [[
+You found small coins bag. It can hold 
+250 coins.
+]],
+}
+
+dialog{
+  id = "_treasure.equipment/coins_bag.2",
+  text = [[
+You got the medium coins bag. It holds
+500 coins, that's great!
+]],
+}
+
+dialog{
+  id = "_treasure.equipment/coins_bag.3",
+  text = [[
+You found the large coins bag! Oh joy! It
+can hold 1000 coins, that'll be heavy!
+]],
+}
+
+dialog{
+  id = "_treasure.equipment/flippers.1",
+  text = [[
+]],
+}
+
+dialog{
+  id = "_treasure.equipment/glove.1",
+  text = [[
+With this gloves you will be able
+to lift heavy things.
+]],
+}
+
+dialog{
+  id = "_treasure.equipment/quiver.1",
+  text = [[
+]],
+}
+
+dialog{
+  id = "_treasure.equipment/quiver.2",
+  text = [[
+]],
+}
+
+dialog{
+  id = "_treasure.equipment/quiver.3",
+  text = [[
+]],
+}
+
+dialog{
+  id = "_treasure.equipment/ring.1",
+  text = [[
+With this ring, you will be able to lift 
+very heavy things.
+]],
+}
+
+dialog{
+  id = "_treasure.equipment/sword.1",
+  text = [[
+]],
+}
+
+dialog{
+  id = "_treasure.equipment/sword.2",
+  text = [[
+]],
+}
+
+dialog{
+  id = "_treasure.equipment/sword.3",
+  text = [[
+]],
+}
+
+dialog{
+  id = "_treasure.equipment/sword.4",
+  text = [[
+]],
+}
+
+dialog{
+  id = "_treasure.equipment/tunic.1",
+  text = [[
+It Just a basic tunic of wool.
+]],
+}
+
+dialog{
+  id = "_treasure.equipment/tunic.2",
+  text = [[
+]],
+}
+
+dialog{
+  id = "_treasure.equipment/tunic.3",
+  text = [[
+]],
+}
+
+dialog{
+  id = "_treasure.equipment/tunic.4",
+  text = [[
+]],
+}
+
+dialog{
+  id = "_treasure.hammer.1",
+  text = [[
+You got the hammer! You can knock out
+ennemies and hit stake on the ground.
+]],
+}
+
+dialog{
+  id = "_treasure.hookshot.1",
+  text = [[
+You got the hookshot! You can stun
+ennemies, grab little things and hook
+solid thing to go over big gaps.
+]],
+}
+
+dialog{
+  id = "_treasure.life_potion.1",
+  text = [[
+It can heal you when you need it.
+(It's super effective, you'll gain
+7 hearts!)
+]],
+}
+
+dialog{
+  id = "_treasure.quiver.1",
+  text = [[
+This small quiver can hold 30 arrows.
+]],
+}
+
+dialog{
+  id = "_treasure.quiver.2",
+  text = [[
+Oh! Joy! You found a medium quiver! It
+can hold 50 arrows!
+]],
+}
+
+dialog{
+  id = "_treasure.quiver.3",
+  text = [[
+That's a nice piece of work! You got a 
+large quiver. It can hold 75 arrows.
+]],
+}
+
+dialog{
+  id = "boss.01_want_to_fight",
+  text = [[
+BLOURB! You're gonna die!
+]],
+}
+
+dialog{
+  id = "boss.lvl_01_done",
+  text = [[
+You've clear the first dungeon! 
+Let's go outside!
+]],
+}
+
+dialog{
+  id = "chest.big_key_locked",
+  text = [[
+... Huh! ...
+You need a big key to open it.
+]],
+}
+
+dialog{
+  id = "chest.small_key_locked",
+  text = [[
+... Huh! ...
+You need a small key to open it.
+]],
+}
+
+dialog{
+  id = "delete_save",
+  text = [[
+$? Continue
+$? Delete your saving file
+]],
+}
+
+dialog{
+  id = "demo.confirmation",
+  text = [[
+Are you sure?
+$?No
+$?Yes
+]],
+}
+
+dialog{
+  id = "demo.enemies",
+  text = [[
+There is here 6 kind of slime:
+the yellow one do random movements,
+the blue one random straight movement
+with pause and the orange one do circles.
+The green one will chase you if you are
+too near from it, the violet one won't
+move but will scream if you are near and
+the red move diagonaly.
+]],
+}
+
+dialog{
+  id = "demo.items",
+  text = [[
+You will find all the items you can get in the 
+game here. Somes chest contain money and can 
+be open many times. The other chests will open 
+only once and the item obtained will show in your
+inventory menu.
+]],
+}
+
+dialog{
+  id = "demo.start_dialog",
+  text = [[
+Welcome to the Starter Quest Pack!
+You can create whatever you want
+if you know how to code it! Ha! Ha
+- We will teach you how to do it -
+]],
+}
+
+dialog{
+  id = "door.big_key_locked",
+  text = [[
+Huh! You need the big key to open the door.
+]],
+}
+
+dialog{
+  id = "door.enemy_locked",
+  text = [[
+Huh! The door is locked, it's a trap!
+]],
+}
+
+dialog{
+  id = "door.locked",
+  text = [[
+Huh! The door is locked.
+]],
+}
+
+dialog{
+  id = "door.small_key_locked",
+  text = [[
+Huh! You need a small key to open the door.
+]],
+}
+
+dialog{
+  id = "door.switch_locked",
+  text = [[
+Huh! These's a mecanism to be activated to open.
+]],
+}
+
+dialog{
+  id = "it_is_an_ambush",
+  text = [[
+HA! It's an embush!
+]],
+}
+
+dialog{
+  id = "life_potion_not_needed",
+  text = [[
+You have all your hearts. Keep it
+for later, it might be useful.
+]],
+}
+
+dialog{
+  id = "no_effect",
+  text = [[
+It does nothing!
+]],
+}
+
+dialog{
+  id = "no_more",
+  text = [[
+Huh! You don't have some anymore.
+]],
+}
+
+dialog{
+  id = "npc.give_a_key",
+  text = [[
+The door of the shop is locked, if you want,
+I can give you the key to open it. You'll be 
+able to buy things
+]],
+}
+
+dialog{
+  id = "npc.have_good_luck",
+  text = [[
+Have a good walk around, you'll
+find a lot of secrets and surely
+some treasures.
+]],
+}
+
+dialog{
+  id = "npc.merchant",
+  text = [[
+Hi there! Do you want an apple, it's delicious. 
+You can buy something else too, if you want.
+]],
+}
+
+dialog{
+  id = "npc.welcome",
+  text = [[
+Hello there,
+I'm a magic scarecrow. If you want to save 
+your game, you just have to check the sign 
+in front of the house. By the way, you will
+find more of these around the world.
+Good luck!
+]],
+}
+
+dialog{
+  id = "save_quit",
+  text = [[
+$? Continue
+$? Save and continue
+$? Save and quit
+$? Quit without save
+]],
+}
+
+dialog{
+  id = "shop",
+  text = [[
+]],
+}
+
+dialog{
+  id = "shop.apples",
+  text = [[
+You will gain 2 hearts.
+]],
+}
+
+dialog{
+  id = "shop.arrows_refill",
+  text = [[
+10 arrows for your quiver.
+You can kill ennemies with that.
+Be cautious.
+]],
+}
+
+dialog{
+  id = "shop.bomb_bag.1",
+  text = [[
+This bag can contain 10 bombs.
+]],
+}
+
+dialog{
+  id = "shop.bomb_bag.2",
+  text = [[
+This bag can contain 30 bombs.
+]],
+}
+
+dialog{
+  id = "shop.bomb_bag.3",
+  text = [[
+This bag can contain 50 bombs.
+]],
+}
+
+dialog{
+  id = "shop.bombs_refill",
+  text = [[
+You can explode things with that.
+Be cautious.
+]],
+}
+
+dialog{
+  id = "shop.bow.1",
+  text = [[
+This bow would be useful with some arrows.
+]],
+}
+
+dialog{
+  id = "shop.coins_bag.1",
+  text = [[
+This bag can carry 250 coins.
+]],
+}
+
+dialog{
+  id = "shop.coins_bag.2",
+  text = [[
+This bag can carry 500 coins.
+]],
+}
+
+dialog{
+  id = "shop.coins_bag.3",
+  text = [[
+This bag can hold 1000 coins
+]],
+}
+
+dialog{
+  id = "shop.glove",
+  text = [[
+With this gloves you will be able
+to lift heavy things.
+]],
+}
+
+dialog{
+  id = "shop.hearts",
+  text = [[
+You will gain 3 hearts.
+]],
+}
+
+dialog{
+  id = "shop.quiver.1",
+  text = [[
+This quiver can contain 30 arrows.
+]],
+}
+
+dialog{
+  id = "shop.quiver.2",
+  text = [[
+This quiver can contain 50 arrows.
+]],
+}
+
+dialog{
+  id = "shop.quiver.3",
+  text = [[
+This quiver can contain 75 arrows.
+]],
+}
+
+dialog{
+  id = "shop.ring",
+  text = [[
+With this ring, you will be able to lift 
+very heavy things.
+]],
+}
+
+dialog{
+  id = "shop.tunic.3",
+  text = [[
+This fancy tunic give a defense bonus.
+]],
+}
+
+dialog{
+  id = "sign.bow_exercice",
+  text = [[
+- Archery excercice place -
+Try to shot the cible
+]],
+}
+
+dialog{
+  id = "sign.cave",
+  text = [[
+- The Cave of Pain -
+You will find something painful.
+]],
+}
+
+dialog{
+  id = "sign.dead_end",
+  text = [[
+    !WARNING!
+Dead end ahead.
+]],
+}
+
+dialog{
+  id = "sign.secret_passage",
+  text = [[
+~ Secret passage behind ~
+]],
+}
+
+dialog{
+  id = "something_appears",
+  text = [[
+Something has appear near of here!
+]],
+}
+
+dialog{
+  id = "too_heavy",
+  text = [[
+It's too heavy, you will need to be stronger
+to lift this.
+]],
+}
+

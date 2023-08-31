@@ -1,0 +1,9 @@
+animation{
+  name = "coins",
+  src_image = "entities/items.png",
+  frame_delay = 240,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 16, y = 56, frame_width = 8, frame_height = 8, origin_x = -4, origin_y = 1, num_frames = 2 },
+  },
+}

@@ -1,0 +1,16 @@
+quest{
+  solarus_version = "1.6",
+  write_dir = "Student Quest_save",
+  title = "Student Quest",
+  short_description = "A handy place to start your Solarus Journey",
+  long_description = [[
+]],
+  author = "Shargon, Splyth, Alexandre Juneau",
+  quest_version = "1.6",
+  release_date = "",
+  website = "",
+  normal_quest_size = "320x240",
+  min_quest_size = "320x240",
+  max_quest_size = "1280x960",
+}
+

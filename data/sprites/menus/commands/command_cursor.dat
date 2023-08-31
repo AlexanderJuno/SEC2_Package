@@ -1,0 +1,9 @@
+animation{
+  name = "command_cursor",
+  src_image = "menus/commands/command_cursor.png",
+  frame_delay = 120,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 0, frame_width = 72, frame_height = 20, origin_x = 36, origin_y = 13, num_frames = 4, num_columns = 1 },
+  },
+}

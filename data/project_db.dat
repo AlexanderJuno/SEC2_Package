@@ -1,0 +1,394 @@
+map{ id = "demo/east_forest", description = "East Forest" }
+map{ id = "demo/east_start", description = "East Start" }
+map{ id = "demo/east_yard", description = "Test Area" }
+map{ id = "demo/forest", description = "Forest" }
+map{ id = "demo/start", description = "Start Map" }
+map{ id = "demo/yard", description = "Yard" }
+map{ id = "dungeon/entrance", description = "Dungeon Entrance" }
+map{ id = "dungeon/main_chamber", description = "Main Chamber" }
+map{ id = "dungeon/west_chamber", description = "West Chamber" }
+map{ id = "dungeon/west_entrance", description = "West Entrance" }
+map{ id = "inside/cave_of_pain", description = "Cave of Pain" }
+map{ id = "inside/home", description = "Home" }
+map{ id = "mystic_forest/mystic_farnorth_forest", description = "FarNorth of Mystic Forest" }
+map{ id = "mystic_forest/mystic_farnorth_west_forest", description = "Farnorth West of Mystic Forest" }
+map{ id = "mystic_forest/mystic_forest", description = "Mystic Forest" }
+map{ id = "mystic_forest/mystic_north_forest", description = "North of Mystic Forest" }
+map{ id = "mystic_forest/mystic_north_west_forest", description = "North West of Mystic Forest" }
+map{ id = "mystic_forest/mystic_south_forest", description = "South of Mystic Forest" }
+map{ id = "mystic_forest/mystic_south_west_forest", description = "South West of Mystic Forest" }
+map{ id = "mystic_forest/mystic_west_forest", description = "West of Mystic Forest" }
+
+tileset{ id = "demo_tilesets/dungeon", description = "Dungeon" }
+tileset{ id = "demo_tilesets/main", description = "Main" }
+tileset{ id = "demo_tilesets/oceanset_cave", description = "OceanSet Cave" }
+tileset{ id = "demo_tilesets/overworld", description = "Overworld" }
+tileset{ id = "oceanset_inside", description = "oceanset_inside" }
+tileset{ id = "oceanset_outside", description = "oceanset_outside" }
+
+sprite{ id = "destructibles/berry_bush", description = "Berry Bush" }
+sprite{ id = "destructibles/blue_vase", description = "Blue Vase" }
+sprite{ id = "destructibles/blueberry_bush", description = "Blueberry Bush" }
+sprite{ id = "destructibles/bush", description = "Bush" }
+sprite{ id = "destructibles/green_vase", description = "Green vase" }
+sprite{ id = "destructibles/iron_stone", description = "Iron Stone" }
+sprite{ id = "destructibles/stone", description = "Stone" }
+sprite{ id = "destructibles/vase", description = "Vase" }
+sprite{ id = "destructibles/white_vase", description = "White Vase" }
+sprite{ id = "destructibles/yellow_vase", description = "Yellow Vase" }
+sprite{ id = "doors/dungeon_door1", description = "doors/dungeon_door1" }
+sprite{ id = "doors/dungeon_key_door", description = "doors/dungeon_key_door" }
+sprite{ id = "doors/house_h5_normal", description = "doors/house_h5_normal" }
+sprite{ id = "enemies/SpikeBall", description = "Spkie Ball" }
+sprite{ id = "enemies/blue_slime", description = "Blue Slime" }
+sprite{ id = "enemies/bosses/giant_slime", description = "Giant Slime" }
+sprite{ id = "enemies/chicken", description = "Chicken" }
+sprite{ id = "enemies/enemy_killed", description = "Enemy Killed animation" }
+sprite{ id = "enemies/green_slime", description = "Green Slime" }
+sprite{ id = "enemies/orange_slime", description = "Orange Slime" }
+sprite{ id = "enemies/red_slime", description = "Red Slime" }
+sprite{ id = "enemies/violet_slime", description = "Violet Slime" }
+sprite{ id = "enemies/yellow_slime", description = "Yellow Slime" }
+sprite{ id = "entities/arrow", description = "entities/arrow" }
+sprite{ id = "entities/big_chest", description = "Big Chest" }
+sprite{ id = "entities/chest", description = "Chest" }
+sprite{ id = "entities/crystal", description = "Crystal" }
+sprite{ id = "entities/crystal_block", description = "Crystal Block" }
+sprite{ id = "entities/inventory_sign", description = "Inventory Sign" }
+sprite{ id = "entities/items", description = "Items" }
+sprite{ id = "entities/options_sign", description = "Options Sign" }
+sprite{ id = "entities/paper_sign", description = "Paper sign" }
+sprite{ id = "entities/shadow", description = "Shadow" }
+sprite{ id = "entities/sign", description = "Sign" }
+sprite{ id = "entities/star", description = "Star" }
+sprite{ id = "entities/statue", description = "Statue" }
+sprite{ id = "entities/stone_statue", description = "Stone Statue" }
+sprite{ id = "entities/warp_star", description = "entities/warp_star" }
+sprite{ id = "hero/ground1", description = "Grass" }
+sprite{ id = "hero/ground2", description = "Swallow water" }
+sprite{ id = "hero/shield1", description = "Sheild LVL1" }
+sprite{ id = "hero/shield2", description = "Sheild LVL2" }
+sprite{ id = "hero/shield3", description = "Sheild LVL3" }
+sprite{ id = "hero/sword1", description = "Sword LVL1" }
+sprite{ id = "hero/sword2", description = "Sword LVL2" }
+sprite{ id = "hero/sword3", description = "Sword LVL 3" }
+sprite{ id = "hero/sword4", description = "Sword LVL4" }
+sprite{ id = "hero/sword_stars1", description = "Sword Stars 1" }
+sprite{ id = "hero/sword_stars2", description = "Sword Stars 2" }
+sprite{ id = "hero/trail", description = "Runnig trail" }
+sprite{ id = "hero/tunic1", description = "Basic Tunic" }
+sprite{ id = "hero/tunic2", description = "Green Tunic" }
+sprite{ id = "hero/tunic3", description = "Blue Tunic" }
+sprite{ id = "hero/tunic4", description = "Red Tunic" }
+sprite{ id = "menus/item_cursor", description = "Item Cursor" }
+sprite{ id = "menus/items/equipment/bomb_bag", description = "Bomb Bag" }
+sprite{ id = "menus/items/equipment/bow_quiver", description = "Quiver" }
+sprite{ id = "menus/items/equipment/coins_bag", description = "Coins Bag" }
+sprite{ id = "menus/items/equipment/flippers", description = "Flippers" }
+sprite{ id = "menus/items/equipment/glove", description = "Glove" }
+sprite{ id = "menus/items/equipment/sword", description = "Sword" }
+sprite{ id = "menus/items/equipment/tunic", description = "Tunic" }
+sprite{ id = "menus/items/inventory/bombs", description = "Bombs" }
+sprite{ id = "menus/items/inventory/boomerang", description = "Boomerang" }
+sprite{ id = "menus/items/inventory/bottle_1", description = "Bottle 1" }
+sprite{ id = "menus/items/inventory/bottle_2", description = "Bottle 2" }
+sprite{ id = "menus/items/inventory/bottle_3", description = "Bottle 3" }
+sprite{ id = "menus/items/inventory/bottle_4", description = "Bottle 4" }
+sprite{ id = "menus/items/inventory/bow", description = "Bow" }
+sprite{ id = "menus/items/quest/pendant_of_courage", description = "menus/items/quest/pendant_of_courage" }
+sprite{ id = "menus/items/quest/pendant_of_power", description = "menus/items/quest/pendant_of_power" }
+sprite{ id = "menus/items/quest/pendant_of_wisdom", description = "menus/items/quest/pendant_of_wisdom" }
+sprite{ id = "npc/bronze_knight", description = "Bronze Knight" }
+sprite{ id = "npc/great_fairy", description = "Great Fairy" }
+sprite{ id = "npc/scarecrow", description = "Red Scarecrow" }
+sprite{ id = "switches/solid_switch", description = "Solid Switch" }
+sprite{ id = "switches/switch", description = "Switch" }
+
+music{ id = "barbarians_merchant", description = "Barbarians Merchant" }
+music{ id = "boss", description = "Boss" }
+music{ id = "carrousel", description = "carrousel" }
+music{ id = "cave", description = "cave" }
+music{ id = "credits", description = "credits" }
+music{ id = "creepy_waltz", description = "Creep Waltz" }
+music{ id = "dragon_judgment", description = "Dragon Judgment" }
+music{ id = "fanfare", description = "fanfare" }
+music{ id = "forest", description = "forest" }
+music{ id = "game_over", description = "game_over" }
+music{ id = "heroic_theme", description = "Heroic Theme" }
+music{ id = "japanese_ninja", description = "Japanese Ninja" }
+music{ id = "lunarius", description = "lunarius" }
+music{ id = "merchant", description = "merchant" }
+music{ id = "mini_game", description = "mini_game" }
+music{ id = "mountains", description = "mountains" }
+music{ id = "neptune_battle", description = "neptune_battle" }
+music{ id = "other_dimension", description = "Other Dimension" }
+music{ id = "overworld", description = "overworld" }
+music{ id = "rain", description = "rain" }
+music{ id = "soldiers", description = "soldiers" }
+music{ id = "village", description = "village" }
+
+sound{ id = "arrow_hit", description = "arrow_hit" }
+sound{ id = "bird_chirp", description = "bird_chirp" }
+sound{ id = "bird_chirp1", description = "bird_chirp1" }
+sound{ id = "bird_chirp2", description = "bird_chirp2" }
+sound{ id = "bomb", description = "bomb" }
+sound{ id = "boss_hurt", description = "boss_hurt" }
+sound{ id = "boss_killed", description = "boss_killed" }
+sound{ id = "bounce", description = "bounce" }
+sound{ id = "bow", description = "bow" }
+sound{ id = "bush", description = "bush" }
+sound{ id = "chest_appears", description = "chest_appears" }
+sound{ id = "chest_open", description = "chest_open" }
+sound{ id = "chicken_hurt", description = "chicken_hurt" }
+sound{ id = "cricket", description = "cricket" }
+sound{ id = "cursor", description = "cursor" }
+sound{ id = "danger", description = "danger" }
+sound{ id = "door_closed", description = "door_closed" }
+sound{ id = "door_open", description = "door_open" }
+sound{ id = "door_unlocked", description = "door_unlocked" }
+sound{ id = "dungeon_finished", description = "dungeon_finished" }
+sound{ id = "enemy_awake", description = "enemy_awake" }
+sound{ id = "enemy_hurt", description = "enemy_hurt" }
+sound{ id = "enemy_killed", description = "enemy_killed" }
+sound{ id = "exclamation", description = "exclamation" }
+sound{ id = "explosion", description = "explosion" }
+sound{ id = "falling_on_hole", description = "falling_on_hole" }
+sound{ id = "heart", description = "heart" }
+sound{ id = "heart_container", description = "heart_container" }
+sound{ id = "hero_dying", description = "hero_dying" }
+sound{ id = "hero_falls", description = "hero_falls" }
+sound{ id = "hero_hurt", description = "hero_hurt" }
+sound{ id = "hero_lands", description = "hero_lands" }
+sound{ id = "hero_pushes", description = "hero_pushes" }
+sound{ id = "hero_seen", description = "hero_seen" }
+sound{ id = "internal_stairs_down", description = "internal_stairs_down" }
+sound{ id = "internal_stairs_up", description = "internal_stairs_up" }
+sound{ id = "item_fall", description = "item_fall" }
+sound{ id = "item_in_water", description = "item_in_water" }
+sound{ id = "jump", description = "jump" }
+sound{ id = "key_fall", description = "key_fall" }
+sound{ id = "laser", description = "laser" }
+sound{ id = "level_end", description = "level_end" }
+sound{ id = "lift", description = "lift" }
+sound{ id = "mecanism", description = "mecanism" }
+sound{ id = "message_end", description = "message_end" }
+sound{ id = "message_letter", description = "message_letter" }
+sound{ id = "money_counter", description = "money_counter" }
+sound{ id = "money_counter_end", description = "money_counter_end" }
+sound{ id = "monster_hurt", description = "monster_hurt" }
+sound{ id = "ok", description = "ok" }
+sound{ id = "pause_closed", description = "pause_closed" }
+sound{ id = "pause_open", description = "pause_open" }
+sound{ id = "picked_coins", description = "picked_coins" }
+sound{ id = "picked_item", description = "picked_item" }
+sound{ id = "picked_money", description = "picked_money" }
+sound{ id = "power_up", description = "power_up" }
+sound{ id = "rupee_counter", description = "rupee_counter" }
+sound{ id = "rupee_counter_end", description = "rupee_counter_end" }
+sound{ id = "secret", description = "secret" }
+sound{ id = "secret2", description = "secret2" }
+sound{ id = "splash", description = "splash" }
+sound{ id = "stairs_down_end", description = "stairs_down_end" }
+sound{ id = "stairs_down_start", description = "stairs_down_start" }
+sound{ id = "stairs_up_end", description = "stairs_up_end" }
+sound{ id = "stairs_up_start", description = "stairs_up_start" }
+sound{ id = "stone", description = "stone" }
+sound{ id = "swim", description = "swim" }
+sound{ id = "switch", description = "switch" }
+sound{ id = "sword1", description = "sword1" }
+sound{ id = "sword_spin_attack_load", description = "sword_spin_attack_load" }
+sound{ id = "sword_spin_attack_release", description = "sword_spin_attack_release" }
+sound{ id = "sword_tapping", description = "sword_tapping" }
+sound{ id = "sword_tapping_weak_wall", description = "sword_tapping_weak_wall" }
+sound{ id = "throw", description = "throw" }
+sound{ id = "treasure", description = "treasure" }
+sound{ id = "victory", description = "victory" }
+sound{ id = "walk_on_grass", description = "walk_on_grass" }
+sound{ id = "walk_on_water", description = "walk_on_water" }
+sound{ id = "warp", description = "warp" }
+sound{ id = "water_drain", description = "water_drain" }
+sound{ id = "water_drain_begin", description = "water_drain_begin" }
+sound{ id = "water_fill", description = "water_fill" }
+sound{ id = "water_fill_begin", description = "water_fill_begin" }
+sound{ id = "woush", description = "woush" }
+sound{ id = "wrong", description = "wrong" }
+sound{ id = "wrong2", description = "wrong2" }
+sound{ id = "wrong3", description = "wrong3" }
+
+item{ id = "consumables/apple", description = "Apple" }
+item{ id = "consumables/arrow_refill", description = "Arrow refill" }
+item{ id = "consumables/berry", description = "Berry" }
+item{ id = "consumables/blueberry", description = "Blueberry" }
+item{ id = "consumables/bomb_refill", description = "Bomb Refill" }
+item{ id = "consumables/coins", description = "Coins" }
+item{ id = "consumables/few_treasure_coins", description = "A few coins" }
+item{ id = "consumables/heart", description = "Heart" }
+item{ id = "consumables/heart_container", description = "Heart Container" }
+item{ id = "consumables/treasure_coins", description = "Lots of coins" }
+item{ id = "equipment/bomb_bag", description = "Bomb Bag" }
+item{ id = "equipment/bow_quiver", description = "Quiver" }
+item{ id = "equipment/coins_bag", description = "Coins Bag" }
+item{ id = "equipment/flippers", description = "Flippers" }
+item{ id = "equipment/glove", description = "Glove" }
+item{ id = "equipment/ring", description = "Ring" }
+item{ id = "equipment/sword", description = "Sword" }
+item{ id = "equipment/tunic", description = "Tunic" }
+item{ id = "inventory/bombs", description = "Bombs" }
+item{ id = "inventory/boomerang", description = "Boomerang" }
+item{ id = "inventory/bottle_1", description = "Bottle 1" }
+item{ id = "inventory/bottle_2", description = "Bottle 2" }
+item{ id = "inventory/bottle_3", description = "Bottle 3" }
+item{ id = "inventory/bottle_4", description = "Bottle 4" }
+item{ id = "inventory/bow", description = "Bow and arrows" }
+item{ id = "quest/pendant_of_courage", description = "Pendant of Courage" }
+item{ id = "quest/pendant_of_power", description = "Pendant of Power" }
+item{ id = "quest/pendant_of_wisdom", description = "Pendant of Wisdom" }
+
+enemy{ id = "SpikeBall", description = "Spike Ball" }
+enemy{ id = "blue_slime", description = "Blue Slime" }
+enemy{ id = "bosses/giant_slime", description = "Giant Slime" }
+enemy{ id = "chicken", description = "Poulet" }
+enemy{ id = "green_slime", description = "Slime Verte" }
+enemy{ id = "orange_slime", description = "Orange Slime" }
+enemy{ id = "red_slime", description = "Red Slime" }
+enemy{ id = "violet_slime", description = "Violet Slime" }
+enemy{ id = "yellow_slime", description = "Yellow Slime" }
+
+entity{ id = "arrow", description = "arrow" }
+
+language{ id = "en", description = "English" }
+
+font{ id = "ComicNeue-Angular-Bold", description = "ComicNeue-Angular-Bold" }
+font{ id = "alttp", description = "Menu font" }
+font{ id = "default_font", description = "Default Font" }
+font{ id = "green_digits", description = "Green digits" }
+font{ id = "white_digits", description = "White Digits" }
+
+
+file{ path = "enemies", author = "Shargon, Splyth", license = "MIT" }
+file{ path = "enemies/SpikeBall.lua", author = "Alexandre Juneau", }
+file{ path = "enemies/blue_slime.lua", author = "Alexandre Juneau", }
+file{ path = "enemies/bosses/giant_slime.lua", author = "Alexandre Juneau", }
+file{ path = "enemies/chicken.lua", author = "Alexandre Juneau", }
+file{ path = "enemies/green_slime.lua", author = "Alexandre Juneau", }
+file{ path = "enemies/orange_slime.lua", author = "Alexandre Juneau", }
+file{ path = "enemies/red_slime.lua", author = "Alexandre Juneau", }
+file{ path = "enemies/violet_slime.lua", author = "Alexandre Juneau", }
+file{ path = "enemies/yellow_slime.lua", author = "Alexandre", }
+file{ path = "entities", author = "Shargon, Splyth", license = "MIT" }
+file{ path = "entities/arrow.lua", author = "Shargon, Splyth", license = "MIT" }
+file{ path = "fonts", author = "Shargon, Splyth", license = "MIT" }
+file{ path = "fonts/ComicNeue-Angular-Bold.ttf", author = "crozynski https://github.com/crozynski/comicneue", license = "OFL-1.1" }
+file{ path = "fonts/default_font.png", author = "Alexandre Juneau", license = "Non-Commercial Use" }
+file{ path = "items", author = "Shargon, Splyth", license = "MIT" }
+file{ path = "items/consumables/apple.lua", author = "Alexandre Juneau", }
+file{ path = "items/consumables/berry.lua", author = "Alexandre Juneau", }
+file{ path = "items/consumables/blueberry.lua", author = "Alexandre Juneau", }
+file{ path = "items/consumables/coins.lua", author = "Alexandre Juneau", }
+file{ path = "items/consumables/few_treasure_coins.lua", author = "Alexandre Juneau", }
+file{ path = "items/consumables/heart_container.lua", author = "Alexandre Juneau", }
+file{ path = "items/consumables/treasure_coins.lua", author = "Alexandre Juneau", }
+file{ path = "items/equipment/ring.lua", author = "Alexandre Juneau", }
+file{ path = "items/inventory/bow.lua", author = "Alexandre Juneau", }
+file{ path = "languages", author = "Shargon, Splyth", license = "MIT" }
+file{ path = "languages/en", author = "Shargon, Splyth", license = "MIT" }
+file{ path = "languages/en/text", author = "Shargon, Splyth", license = "MIT" }
+file{ path = "languages/en/text/dialogs.dat", author = "Shargon, Splyth", license = "MIT" }
+file{ path = "languages/en/text/strings.dat", author = "Shargon, Splyth", license = "MIT" }
+file{ path = "main.lua", author = "Shargon, Splyth", license = "MIT" }
+file{ path = "maps", author = "Splyth, Shargon", license = "MIT" }
+file{ path = "maps/demo", author = "Splyth, Shargon", license = "MIT" }
+file{ path = "maps/demo/east_forest.dat", author = "Alexandre Juneau", }
+file{ path = "maps/demo/east_forest.lua", author = "Alexandre Juneau", }
+file{ path = "maps/demo/east_yard.dat", author = "Splyth, Shargon", license = "MIT" }
+file{ path = "maps/demo/east_yard.lua", author = "Splyth, Shargon", license = "MIT" }
+file{ path = "maps/demo/forest.dat", author = "Alexandre Juneau", }
+file{ path = "maps/demo/forest.lua", author = "Alexandre Juneau", }
+file{ path = "maps/demo/start.dat", author = "Shargon, Splyth", license = "MIT" }
+file{ path = "maps/demo/start.lua", author = "Shargon, Splyth", license = "MIT" }
+file{ path = "maps/demo/yard.dat", author = "Alexandre Juneau", }
+file{ path = "maps/demo/yard.lua", author = "Alexandre Juneau", }
+file{ path = "maps/dungeon/entrance.dat", author = "Alexandre Juneau", }
+file{ path = "maps/dungeon/entrance.lua", author = "Alexandre Juneau", }
+file{ path = "maps/dungeon/main_chamber.dat", author = "Alexandre Juneau", }
+file{ path = "maps/dungeon/main_chamber.lua", author = "Alexandre Juneau", }
+file{ path = "maps/dungeon/west_chamber.dat", author = "Alexandre Juneau", }
+file{ path = "maps/dungeon/west_chamber.lua", author = "Alexandre Juneau", }
+file{ path = "maps/dungeon/west_entrance.dat", author = "Alexandre Juneau", }
+file{ path = "maps/dungeon/west_entrance.lua", author = "Alexandre Juneau", }
+file{ path = "maps/inside/cave_of_pain.dat", author = "Alexandre Juneau", }
+file{ path = "maps/inside/cave_of_pain.lua", author = "Alexandre Juneau", }
+file{ path = "maps/inside/home.dat", author = "Alexandre Juneau", }
+file{ path = "maps/inside/home.lua", author = "Alexandre Juneau", }
+file{ path = "maps/mystic_forest/mystic_farnorth_forest.dat", author = "Alexandre Juneau", }
+file{ path = "maps/mystic_forest/mystic_farnorth_forest.lua", author = "Alexandre Juneau", }
+file{ path = "maps/mystic_forest/mystic_farnorth_west_forest.dat", author = "Alexandre Juneau", }
+file{ path = "maps/mystic_forest/mystic_farnorth_west_forest.lua", author = "Alexandre Juneau", }
+file{ path = "maps/mystic_forest/mystic_forest.dat", author = "Alexandre", }
+file{ path = "maps/mystic_forest/mystic_forest.lua", author = "Alexandre", }
+file{ path = "maps/mystic_forest/mystic_north_forest.dat", author = "Alexandre Juneau", }
+file{ path = "maps/mystic_forest/mystic_north_forest.lua", author = "Alexandre Juneau", }
+file{ path = "maps/mystic_forest/mystic_north_west_forest.dat", author = "Alexandre Juneau", }
+file{ path = "maps/mystic_forest/mystic_north_west_forest.lua", author = "Alexandre Juneau", }
+file{ path = "maps/mystic_forest/mystic_south_forest.dat", author = "Alexandre Juneau", }
+file{ path = "maps/mystic_forest/mystic_south_forest.lua", author = "Alexandre Juneau", }
+file{ path = "maps/mystic_forest/mystic_south_west_forest.dat", author = "Alexandre Juneau", }
+file{ path = "maps/mystic_forest/mystic_south_west_forest.lua", author = "Alexandre Juneau", }
+file{ path = "maps/mystic_forest/mystic_west_forest.dat", author = "Alexandre Juneau", }
+file{ path = "maps/mystic_forest/mystic_west_forest.lua", author = "Alexandre Juneau", }
+file{ path = "musics", author = "Splyth, Shargon", license = "MIT" }
+file{ path = "scripts", author = "Splyth, Shargon", license = "MIT" }
+file{ path = "scripts/dialogs", author = "Splyth, Shargon https://gitlab.com/ShargonPendragon/visual-novel-system", license = "MIT" }
+file{ path = "scripts/dialogs/libs", author = "Splyth, Shargon https://gitlab.com/ShargonPendragon/visual-novel-system", license = "MIT" }
+file{ path = "scripts/features.lua", author = "Splyth, Shargon https://gitlab.com/ShargonPendragon/visual-novel-system", license = "MIT" }
+file{ path = "scripts/game_manager.lua", author = "Splyth, Shargon https://gitlab.com/ShargonPendragon/visual-novel-system", license = "MIT" }
+file{ path = "scripts/initial_game.lua", author = "Splyth, Shargon https://gitlab.com/ShargonPendragon/visual-novel-system", license = "MIT" }
+file{ path = "scripts/meta", author = "Splyth, Shargon https://gitlab.com/ShargonPendragon/visual-novel-system", license = "MIT" }
+file{ path = "scripts/meta/hero.lua", author = "Splyth, Shargon https://gitlab.com/ShargonPendragon/visual-novel-system", license = "MIT" }
+file{ path = "scripts/multiple_events.lua", author = "Splyth, Shargon https://gitlab.com/ShargonPendragon/visual-novel-system", license = "MIT" }
+file{ path = "shaders", author = "Splyth, Shargon", license = "MIT" }
+file{ path = "sounds", author = "Splyth, Shargon", license = "MIT" }
+file{ path = "sprites", author = "Shargon, Splyth", license = "MIT" }
+file{ path = "sprites/destructibles/berry_bush.dat", author = "Alexandre Juneau", license = "Non-Commercial Use" }
+file{ path = "sprites/destructibles/blue_vase.dat", author = "Alexandre Juneau", }
+file{ path = "sprites/destructibles/blueberry_bush.dat", author = "Alexandre Juneau", license = "Non-Commercial Use" }
+file{ path = "sprites/destructibles/bush.dat", author = "Alexandre Juneau", license = "Non-Commercial Use" }
+file{ path = "sprites/destructibles/green_vase.dat", author = "Alexandre Juneau", }
+file{ path = "sprites/destructibles/iron_stone.dat", license = "Free Licence" }
+file{ path = "sprites/destructibles/stone.dat", license = "Free Licence" }
+file{ path = "sprites/destructibles/vase.dat", author = "Alexandre Juneau", license = "Non-Commercial Use" }
+file{ path = "sprites/destructibles/white_vase.dat", author = "Alexandre Juneau", }
+file{ path = "sprites/destructibles/yellow_vase.dat", author = "Alexandre Juneau", }
+file{ path = "sprites/enemies/SpikeBall.dat", author = "Alexandre Juneau", }
+file{ path = "sprites/enemies/blue_slime.dat", author = "Alexandre Juneau", }
+file{ path = "sprites/enemies/bosses/giant_slime.dat", author = "Alexandre Juneau", }
+file{ path = "sprites/enemies/chicken.dat", author = "Alexandre Juneau", license = "Non-Commercial Use" }
+file{ path = "sprites/enemies/green_slime.dat", author = "Alexandre Juneau", }
+file{ path = "sprites/enemies/orange_slime.dat", author = "Alexandre Juneau", }
+file{ path = "sprites/enemies/red_slime.dat", author = "Alexandre Juneau", }
+file{ path = "sprites/enemies/violet_slime.dat", author = "Alexandre Juneau", }
+file{ path = "sprites/enemies/yellow_slime.dat", author = "Alexandre Juneau", }
+file{ path = "sprites/entities", author = "Shargon, Splyth", license = "MIT" }
+file{ path = "sprites/entities/arrow.dat", author = "Shargon", license = "MIT" }
+file{ path = "sprites/entities/inventory_sign.dat", author = "Alexandre Juneau", }
+file{ path = "sprites/entities/options_sign.dat", author = "Alexandre Juneau", }
+file{ path = "sprites/entities/paper_sign.dat", author = "Alexandre Juneau", license = "Non-Commercial Use" }
+file{ path = "sprites/entities/shadow.dat", author = "Shargon", license = "MIT" }
+file{ path = "sprites/entities/sign.dat", author = "Alexandre Juneau", license = "Non-Commercial Use" }
+file{ path = "sprites/entities/statue.dat", author = "Alexandre Juneau", }
+file{ path = "sprites/hero", author = "Shargon, Splyth", license = "MIT" }
+file{ path = "sprites/hero/ground2.dat", author = "Shargon", license = "MIT" }
+file{ path = "sprites/hero/running.png", author = "Shargon", license = "CC0" }
+file{ path = "sprites/hero/sword_stars1.dat", author = "Shargon", license = "MIT" }
+file{ path = "sprites/hero/trail.dat", author = "Shargon", license = "MIT" }
+file{ path = "sprites/hero/tunic2.dat", author = "Shargon", license = "MIT" }
+file{ path = "sprites/menus/items/equipment/coins_bag.dat", author = "Alexandre Juneau", }
+file{ path = "sprites/npc/bronze_knight.dat", author = "MIT Authors", }
+file{ path = "sprites/npc/scarecrow.dat", author = "Alexandre Juneau", }
+file{ path = "sprites/switches/solid_switch.dat", author = "Alexandre Juneau", }
+file{ path = "tilesets", author = "Shargon, Splyth", license = "MIT" }
+file{ path = "tilesets/demo_tilesets", author = "Shargon, Splyth", license = "MIT" }
+file{ path = "tilesets/demo_tilesets/main.dat", author = "Alexandre Juneau", license = "Non-Commercial Use" }
+file{ path = "tilesets/demo_tilesets/main.tiles.png", author = "Alexandre Juneau", license = "Non-Commercial Use" }
+file{ path = "tilesets/demo_tilesets/overworld.dat", author = "ArMM1998 https://opengameart.org/content/zelda-like-tilesets-and-sprites", license = "CC0" }
+file{ path = "tilesets/demo_tilesets/overworld.tiles.png", author = "ArMM1998 https://opengameart.org/content/zelda-like-tilesets-and-sprites", license = "CC0" }
